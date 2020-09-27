@@ -124,5 +124,3 @@ if __name__ == "__main__":
             wires_coordinates.append(i.split(','))
 
     manhattan_distance(wires_coordinates)
-
-
